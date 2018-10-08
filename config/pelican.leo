@@ -60,8 +60,8 @@
 </v>
 </v>
 </v>
-<v t="yen.20170108171733.71"><vh>@path markdown</vh>
-<v t="yen.20170108171733.81" a="E"><vh>@path pages</vh>
+<v t="yen.20170108171733.71" a="E"><vh>@path markdown</vh>
+<v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
 </v>
@@ -70,6 +70,10 @@
 <v t="leo.20180115115910.1" a="E"><vh>2018</vh>
 <v t="leo.20180423103639.1" a="E"><vh>2018 Fall CP 課程</vh>
 <v t="leo.20180423103656.1"><vh>@edit 20180718.md</vh></v>
+<v t="leo.20181008182650.1"><vh>@edit 20180914.md</vh></v>
+<v t="leo.20181008182822.1"><vh>@edit 20180921.md</vh></v>
+<v t="leo.20181008182833.1"><vh>@edit 20180928.md</vh></v>
+<v t="leo.20181008182827.1"><vh>@edit 20181005.md</vh></v>
 </v>
 </v>
 </v>
