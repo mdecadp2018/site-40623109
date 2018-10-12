@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="https://mdecadp2018.github.io/site-40623109/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623109/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623109/blog/</id><updated>2018-10-12T11:00:00+08:00</updated><entry><title>Week5</title><link href="https://mdecadp2018.github.io/site-40623109/blog/week5.html" rel="alternate"></link><published>2018-10-12T11:00:00+08:00</published><updated>2018-10-12T11:00:00+08:00</updated><author><name>40623109</name></author><id>tag:mdecadp2018.github.io,2018-10-12:/site-40623109/blog/week5.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2018-10-12T11:00:00+08:00</updated><entry><title>Week5</title><link href="./week5.html" rel="alternate"></link><published>2018-10-12T11:00:00+08:00</published><updated>2018-10-12T11:00:00+08:00</updated><author><name>40623109</name></author><id>tag:None,2018-10-12:./week5.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;week5&lt;/h2&gt;
 &lt;ol&gt;
@@ -11,7 +11,7 @@
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;影片&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/NXDOhVwlh1U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2018Fall"></category></entry><entry><title>Week4</title><link href="https://mdecadp2018.github.io/site-40623109/blog/week4.html" rel="alternate"></link><published>2018-10-05T11:00:00+08:00</published><updated>2018-10-05T11:00:00+08:00</updated><author><name>40623109</name></author><id>tag:mdecadp2018.github.io,2018-10-05:/site-40623109/blog/week4.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/NXDOhVwlh1U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2018Fall"></category></entry><entry><title>Week4</title><link href="./week4.html" rel="alternate"></link><published>2018-10-05T11:00:00+08:00</published><updated>2018-10-05T11:00:00+08:00</updated><author><name>40623109</name></author><id>tag:None,2018-10-05:./week4.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;week4&lt;/h2&gt;
 &lt;ol&gt;
@@ -19,23 +19,24 @@
 &lt;p&gt;重新整理倉儲&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;使用onshape畫圖&lt;/p&gt;
+&lt;p&gt;投影片解說&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ol&gt;</content><category term="2018Fall"></category></entry><entry><title>Week3</title><link href="https://mdecadp2018.github.io/site-40623109/blog/week3.html" rel="alternate"></link><published>2018-09-28T11:00:00+08:00</published><updated>2018-09-28T11:00:00+08:00</updated><author><name>40623109</name></author><id>tag:mdecadp2018.github.io,2018-09-28:/site-40623109/blog/week3.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;/ol&gt;
+&lt;p&gt;3.了解 onshape，並練習使用，參考http://mde.tw/cadp2018/downloads/1-1-Lesson%20Plan.pdf&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week3</title><link href="./week3.html" rel="alternate"></link><published>2018-09-28T11:00:00+08:00</published><updated>2018-09-28T11:00:00+08:00</updated><author><name>40623109</name></author><id>tag:None,2018-09-28:./week3.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;week3  進行git 的基本練習&lt;/h2&gt;
 &lt;p&gt;影片&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/fIP2aD_smAQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;</content><category term="2018Fall"></category></entry><entry><title>Week2</title><link href="https://mdecadp2018.github.io/site-40623109/blog/week2.html" rel="alternate"></link><published>2018-09-21T11:00:00+08:00</published><updated>2018-09-21T11:00:00+08:00</updated><author><name>40623109</name></author><id>tag:mdecadp2018.github.io,2018-09-21:/site-40623109/blog/week2.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/fIP2aD_smAQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;</content><category term="2018Fall"></category></entry><entry><title>Week2</title><link href="./week2.html" rel="alternate"></link><published>2018-09-21T11:00:00+08:00</published><updated>2018-09-21T11:00:00+08:00</updated><author><name>40623109</name></author><id>tag:None,2018-09-21:./week2.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;week2&lt;/h2&gt;
 &lt;p&gt;mdecadp2018 學員網誌 disqus 設定&lt;/p&gt;
 &lt;p&gt;mdecadp2018 各學員取得期中作業倉儲後, 若要啟動 Pelican Blog 中的 disqus, 可以修改 config/pelican.leo 中, "Pelican 設定"節點下方的 @edit publishconf.py 內容, 指定 DISQUS_SITENAME:&lt;/p&gt;
-&lt;p&gt;DISQUS_SITENAME = "mdecadp2018"&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week1</title><link href="https://mdecadp2018.github.io/site-40623109/blog/week1.html" rel="alternate"></link><published>2018-09-14T11:00:00+08:00</published><updated>2018-09-14T11:00:00+08:00</updated><author><name>40623109</name></author><id>tag:mdecadp2018.github.io,2018-09-14:/site-40623109/blog/week1.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+&lt;p&gt;DISQUS_SITENAME = "mdecadp2018"&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week1</title><link href="./week1.html" rel="alternate"></link><published>2018-09-14T11:00:00+08:00</published><updated>2018-09-14T11:00:00+08:00</updated><author><name>40623109</name></author><id>tag:None,2018-09-14:./week1.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 
 
 &lt;h2&gt;week1&lt;/h2&gt;
-&lt;p&gt;登入 Github 帳號後, 連結至 https://classroom.github.com/a/fGqXU9kO 以領取個人的期中作業, 此倉儲內容取自: 2018fall, 示範網站, 各學員期中成績以每週放入此個人網站之操作影片、CMSimfly、reveal 簡報、pelican 網誌與倉儲歷程記錄作為自評依據.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623109/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623109/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+&lt;p&gt;登入 Github 帳號後, 連結至 https://classroom.github.com/a/fGqXU9kO 以領取個人的期中作業, 此倉儲內容取自: 2018fall, 示範網站, 各學員期中成績以每週放入此個人網站之操作影片、CMSimfly、reveal 簡報、pelican 網誌與倉儲歷程記錄作為自評依據.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="./2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-09-10:./2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 
 
