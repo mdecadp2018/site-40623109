@@ -21,19 +21,19 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="EM"><vh>slides div</vh>
-<v t="leo.20180827201621.9"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181101204505.1"><vh>w1</vh>
+<v t="leo.20181101204505.1" a="E"><vh>w1</vh>
 <v t="leo.20181101204529.1"><vh>w1</vh></v>
 </v>
-<v t="leo.20181109221708.1"><vh>w2~w5</vh>
+<v t="leo.20181109221708.1" a="E"><vh>w2~w5</vh>
 <v t="leo.20181109221754.1"><vh>w2</vh></v>
 </v>
-<v t="leo.20181109221709.1"><vh>w6</vh>
+<v t="leo.20181109221709.1" a="E"><vh>w6</vh>
 <v t="leo.20181109221805.1"><vh>w6</vh></v>
 </v>
-<v t="leo.20181109221709.2"><vh>w7~w9</vh>
+<v t="leo.20181109221709.2" a="E"><vh>w7~w9</vh>
 <v t="leo.20181109221810.1"><vh>w7~w9</vh></v>
 </v>
 <v t="leo.20180827201621.11"><vh>快捷鍵</vh>
@@ -348,7 +348,7 @@ make.start()
 						
 
 </t>
-<t tx="leo.20181101204529.1">#Week1
+<t tx="leo.20181101204529.1">Week1
 
 1.帶紙本筆記、耳機和隨身碟，準備開始上這門課。
 2.領取期中作業，並將相關網站、blog 和簡報整理好，這樣才能進行每週更新。
@@ -384,7 +384,7 @@ DISQUS_SITENAME = "mdecadp2018"
 
 						
 </t>
-<t tx="leo.20181109221754.1">#Week2~Week5
+<t tx="leo.20181109221754.1">Week2~Week5
 
 1.將 Github 中的 Settings 中將內定 branch 改為 gh-pages。
 2.如果在操作使用上遇到問題，可以登入 github ，直接留在各週的 Issues 下方的 comments。
@@ -395,7 +395,7 @@ DISQUS_SITENAME = "mdecadp2018"
 7. 新版 p37
 
 </t>
-<t tx="leo.20181109221805.1">#Week6
+<t tx="leo.20181109221805.1">Week6
 
 1. 開始尋找成員(6人一組)，去完成期中之後的作業。
 2. youtube影片連結 
@@ -403,7 +403,7 @@ DISQUS_SITENAME = "mdecadp2018"
 YouTube Videos
 They can't be added directly but you can add an image with a link to the video like this:
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)</t>
-<t tx="leo.20181109221810.1">#Week7~Week9
+<t tx="leo.20181109221810.1">Week7~Week9
 
 1.有同學遇到 github 無法登入
 2.安裝 Fossil SCM，並下載 Ubuntu 18.04 with Stunnel 4 與 Fossil SCM 2.5 安裝轉出壓縮檔
