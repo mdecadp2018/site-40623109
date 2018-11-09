@@ -46,7 +46,7 @@ They can't be added directly but you can add an image with a link to the video l
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;3.了解 onshape，並練習使用， &lt;a href="http://mde.tw/cadp2018/content/OnshapeWeek%202.html"&gt;參考網站&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" height="398" src="/images/pt-1.png" width="786"&gt;&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week3</title><link href="https://mdecadp2018.github.io/site-40623109/blog/week3.html" rel="alternate"></link><published>2018-09-28T11:00:00+08:00</published><updated>2018-09-28T11:00:00+08:00</updated><author><name>40623109</name></author><id>tag:mdecadp2018.github.io,2018-09-28:/site-40623109/blog/week3.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;&lt;a&gt;&lt;img alt="" height="398" src="/images/pt-1.png" width="786"&gt;&lt;/a&gt;&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week3</title><link href="https://mdecadp2018.github.io/site-40623109/blog/week3.html" rel="alternate"></link><published>2018-09-28T11:00:00+08:00</published><updated>2018-09-28T11:00:00+08:00</updated><author><name>40623109</name></author><id>tag:mdecadp2018.github.io,2018-09-28:/site-40623109/blog/week3.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;week3  進行git 的基本練習&lt;/h2&gt;
 &lt;p&gt;1.確認個人倉儲、網站、網誌和簡報是否已經都整理好，知道期中自評成績的重點在於我們平日所做的更新畫圖上傳影片。&lt;/p&gt;
@@ -68,7 +68,7 @@ Computer Aided (輔助), Guided (導引), Automated (自動), Autonomous (自主
 &lt;p&gt;2.mdecadp2018 學員網誌 disqus 設定&lt;/p&gt;
 &lt;p&gt;mdecadp2018 各學員取得期中作業倉儲後, 若要啟動 Pelican Blog 中的 disqus, 可以修改 config/pelican.leo 中, "Pelican 設定"節點下方的 @edit publishconf.py 內容, 指定 DISQUS_SITENAME:&lt;/p&gt;
 &lt;p&gt;DISQUS_SITENAME = "mdecadp2018"&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" height="439" src="/images/disqus.png" width="491"&gt;&lt;/span&gt;&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623109/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623109/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img alt="" height="439" src="/images/disqus.png" width="491"&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623109/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623109/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 
 
