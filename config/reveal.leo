@@ -24,11 +24,17 @@
 <v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181101204505.1" a="E"><vh>w1</vh>
+<v t="leo.20181101204505.1"><vh>w1</vh>
 <v t="leo.20181101204529.1"><vh>w1</vh></v>
 </v>
-<v t="leo.20181101204155.1" a="E"><vh>筆記</vh>
-<v t="leo.20181101204249.1"><vh>newHeadline</vh></v>
+<v t="leo.20181109221708.1"><vh>w2~w5</vh>
+<v t="leo.20181109221754.1"><vh>w2</vh></v>
+</v>
+<v t="leo.20181109221709.1"><vh>w6</vh>
+<v t="leo.20181109221805.1"><vh>w6</vh></v>
+</v>
+<v t="leo.20181109221709.2"><vh>w7~w9</vh>
+<v t="leo.20181109221810.1"><vh>w7~w9</vh></v>
 </v>
 <v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
@@ -332,15 +338,6 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181101204155.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						</t>
-<t tx="leo.20181101204249.1"></t>
 <t tx="leo.20181101204505.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -348,7 +345,68 @@ make.start()
 &lt;/section&gt;
 
 
-						</t>
-<t tx="leo.20181101204529.1">w1</t>
+						
+
+</t>
+<t tx="leo.20181101204529.1">#Week1
+
+1.帶紙本筆記、耳機和隨身碟，準備開始上這門課。
+2.領取期中作業，並將相關網站、blog 和簡報整理好，這樣才能進行每週更新。
+3.關於 pelican.leo (blog) disqus 的設定 :(參考網站)
+若要啟動 blog disqus ，可以修改 config/pelican.leo 中, "Pelican 設定"節點下方的 @edit publishconf.py內容，指定 DISQUS_SITENAME:
+DISQUS_SITENAME = "mdecadp2018"
+
+</t>
+<t tx="leo.20181109221708.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109221709.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109221709.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109221754.1">#Week2~Week5
+
+1.將 Github 中的 Settings 中將內定 branch 改為 gh-pages。
+2.如果在操作使用上遇到問題，可以登入 github ，直接留在各週的 Issues 下方的 comments。
+3.確認個人倉儲、網站、網誌和簡報是否已經都整理好，知道期中自評成績的重點在於我們平日所做的更新畫圖上傳影片。
+4.進行git 的基本練習
+5. 投影片解說
+6. 了解 onshape，並練習使用
+7. 新版 p37
+
+</t>
+<t tx="leo.20181109221805.1">#Week6
+
+1. 開始尋找成員(6人一組)，去完成期中之後的作業。
+2. youtube影片連結 
+在github issues 中加入 youtube video 
+YouTube Videos
+They can't be added directly but you can add an image with a link to the video like this:
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)</t>
+<t tx="leo.20181109221810.1">#Week7~Week9
+
+1.有同學遇到 github 無法登入
+2.安裝 Fossil SCM，並下載 Ubuntu 18.04 with Stunnel 4 與 Fossil SCM 2.5 安裝轉出壓縮檔
+3.更新 flaskapp.py，到google上打cmsimfly github，用git clone指令複製cmsimfly github，完成後複製 flaskapp.py並貼上覆蓋自己的資料夾內部的 flaskapp.py。</t>
 </tnodes>
 </leo_file>
