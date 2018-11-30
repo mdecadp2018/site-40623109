@@ -3,6 +3,4 @@
 
 網站: https://mdecadp2018.github.io/site-40623109/content/index.html
 
-blog: https://mdecadp2018.github.io/site-40623109/blog/index.html
-
-簡報: https://mdecadp2018.github.io/site-40623109/reveal/index.html#/
+分組網站: https://cadp2018-ag4.herokuapp.com/get_page/Introduction
