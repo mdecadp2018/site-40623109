@@ -21,7 +21,7 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="EM"><vh>slides div</vh>
-<v t="leo.20180827201621.9"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20190111010304.1"><vh>w11</vh>
@@ -176,9 +176,10 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 網際簡報40623109
+<t tx="leo.20180827201621.10">## 2018Fall 網際簡報
 
 ### 虎科大機械設計工程系
+機設二甲 40623109 李如芳
 
 &lt;small&gt;
 Created by [40623109](https://github.com/mdecadp2018/site-40623109)
@@ -609,7 +610,9 @@ They can't be added directly but you can add an image with a link to the video l
 
 * 使用 heroku 建立小組網站，再用 github 進行協同  處理好小組網站後，就可開始進行每周的專案進度紀錄。
 
-* 分配工作:我被分配到 Onshape 繪製</t>
+* 分配工作:我被分配到 Onshape 繪製
+
+</t>
 <t tx="leo.20190111011650.1">## w13
 
 * 繪製惰輪固定座及光軸滑塊
@@ -629,7 +632,9 @@ They can't be added directly but you can add an image with a link to the video l
 [噴嘴](https://item.taobao.com/item.htm?id=527963597624&amp;ali_refid=a3_430750_1006:1122639050:N:3d%E6%89%93%E5%8D%B0%E6%9C%BA%E5%96%B7%E5%98%B4:0cb031b1a129ead4961146ee1ff7099b&amp;ali_trackid=1_0cb031b1a129ead4961146ee1ff7099b&amp;spm=a21wu.10013406-tw.0.0)
 [噴頭1](https://world.taobao.com/item/560317882313.htm?spm=a21wu.10013406-tw.0.0.1da65c76OUnpUi)
 [噴頭2](https://world.taobao.com/item/520431331861.htm?spm=a21wu.10013406-tw.0.0.1da65c76OUnpUi)
-&lt;br&gt;&lt;iframe width="450" height="300" src="https://www.youtube.com/embed/zOWfRNnM8JM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;              &lt;iframe width="450" height="300" src="https://www.youtube.com/embed/BfBl4K0-K2U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;br&gt;&lt;iframe width="450" height="300" src="https://www.youtube.com/embed/zOWfRNnM8JM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;              &lt;iframe width="450" height="300" src="https://www.youtube.com/embed/BfBl4K0-K2U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20190111015103.1">## w15
 
 * 繪製同步輪及軸座
@@ -646,7 +651,9 @@ They can't be added directly but you can add an image with a link to the video l
 
 * 相關網址:無
 
-&lt;br&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/RRfvk_FgNe4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;br&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/RRfvk_FgNe4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20190111015854.1">## w17
 
 * 編排 pdf
