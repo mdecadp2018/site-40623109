@@ -24,16 +24,37 @@
 <v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20190111010304.1"><vh>w11</vh>
+<v t="leo.20190111010536.1"><vh>11~12</vh></v>
+</v>
+<v t="leo.20190111010306.1"><vh>w13</vh>
+<v t="leo.20190111011650.1"><vh>13</vh></v>
+</v>
+<v t="leo.20190111010306.2"><vh>w14</vh>
+<v t="leo.20190111014242.1"><vh>14</vh></v>
+</v>
+<v t="leo.20190111010347.1"><vh>w15</vh>
+<v t="leo.20190111015103.1"><vh>15</vh></v>
+</v>
+<v t="leo.20190111010348.1"><vh>w16</vh>
+<v t="leo.20190111015622.1"><vh>16</vh></v>
+</v>
+<v t="leo.20190111010512.1"><vh>w17</vh>
+<v t="leo.20190111015854.1"><vh>17</vh></v>
+</v>
+<v t="leo.20190111020124.1" a="E"><vh>心得</vh>
+<v t="leo.20190111020141.1"><vh>心得</vh></v>
+</v>
 <v t="leo.20181101204505.1"><vh>w1</vh>
 <v t="leo.20181101204529.1"><vh>w1</vh></v>
 </v>
 <v t="leo.20181109221708.1"><vh>w2~w5</vh>
 <v t="leo.20181109221754.1"><vh>w2</vh></v>
 </v>
-<v t="leo.20181109221709.1"><vh>w6</vh>
+<v t="leo.20181109221709.1" a="E"><vh>w6</vh>
 <v t="leo.20181109221805.1"><vh>w6</vh></v>
 </v>
-<v t="leo.20181109221709.2"><vh>w7~w9</vh>
+<v t="leo.20181109221709.2" a="E"><vh>w7~w9</vh>
 <v t="leo.20181109221810.1"><vh>w7~w9</vh></v>
 </v>
 <v t="leo.20181109225516.1"><vh>video</vh>
@@ -155,15 +176,15 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 分組網際簡報40623109
+<t tx="leo.20180827201621.10">## 2018Fall 網際簡報40623109
 
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
+Created by [40623109](https://github.com/mdecadp2018/site-40623109)
 &lt;/small&gt;
 
-[2018 Fall 分組網誌](./../blog/index.html)
+[網誌](https://mdecadp2018.github.io/site-40623109/blog/index.html)
 
 
 </t>
@@ -430,14 +451,18 @@ DISQUS_SITENAME = "mdecadp2018"
 在github issues 中加入 youtube video 
 YouTube Videos
 They can't be added directly but you can add an image with a link to the video like this:
-[![https://www.youtube.com/watch?v=NXDOhVwlh1U](http://img.youtube.com/vi/NXDOhVwlh1U/0.jpg)](http://www.youtube.com/watch?v=NXDOhVwlh1U)</t>
+[![https://www.youtube.com/watch?v=NXDOhVwlh1U](http://img.youtube.com/vi/NXDOhVwlh1U/0.jpg)](http://www.youtube.com/watch?v=NXDOhVwlh1U)
+
+</t>
 <t tx="leo.20181109221810.1">Week7~Week9
 
 1.有同學遇到 github 無法登入
 
 2.安裝 Fossil SCM，並下載 Ubuntu 18.04 with Stunnel 4 與 Fossil SCM 2.5 安裝轉出壓縮檔
 
-3.更新 flaskapp.py，到google上打cmsimfly github，用git clone指令複製cmsimfly github，完成後複製 flaskapp.py並貼上覆蓋自己的資料夾內部的 flaskapp.py。</t>
+3.更新 flaskapp.py，到google上打cmsimfly github，用git clone指令複製cmsimfly github，完成後複製 flaskapp.py並貼上覆蓋自己的資料夾內部的 flaskapp.py。
+
+</t>
 <t tx="leo.20181109225516.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -449,48 +474,195 @@ They can't be added directly but you can add an image with a link to the video l
 </t>
 <t tx="leo.20181109225538.1">w1-1
 
-&lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/85Ab48x19cs"&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/85Ab48x19cs"&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20181109225544.1">w1-2
 
-&lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/9kC1kym-pIo"&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/9kC1kym-pIo"&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20181109225544.2">w1-3
 
-&lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/frV9v0SBDJk"&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/frV9v0SBDJk"&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20181109225546.1">w1-4
 
-&lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/Twh0X1D1UH0"&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/Twh0X1D1UH0"&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20181109225546.2">w1-5
 
-&lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/mvlxb74GzmI"&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/mvlxb74GzmI"&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20181109230123.1">w1-6
 
-&lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/iyEFPXwRYhQ"&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/iyEFPXwRYhQ"&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20181109230146.1">w2
 
-&lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/b68Y1eag_mI"&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/b68Y1eag_mI"&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20181109230147.1">w3-1
 
-&lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/F5hWygSXOuc"&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/F5hWygSXOuc"&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20181109230147.2">w3-2
 
-&lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/dwdXBE6X3Nw"&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/dwdXBE6X3Nw"&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20181109230147.3">w3-3
 
-&lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/LgzQg0r7ip4"&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/LgzQg0r7ip4"&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20181109230303.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+
+</t>
+<t tx="leo.20181109230325.1">&lt;img alt="" height="300" src="/images/筆記1.jpg" width="400"&gt;
+</t>
+<t tx="leo.20181109230351.1">&lt;img alt="" height="300" src="/images/筆記2.jpg" width="225"&gt;
+</t>
+<t tx="leo.20181109230351.2">&lt;img alt="" height="300" src="/images/筆記3.jpg" width="400"&gt;
+
+</t>
+<t tx="leo.20181109230356.1">&lt;img alt="" height="300" src="/images/筆記4.jpg" width="400"&gt;
+
+</t>
+<t tx="leo.20181109230356.2">&lt;img alt="" height="300" src="/images/筆記5.jpg" width="400"&gt;
+</t>
+<t tx="leo.20190111010304.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
 
 
-						</t>
-<t tx="leo.20181109230325.1">&lt;img alt="" height="300" src="/images/筆記1.jpg" width="400"&gt;
+						
+
 </t>
-<t tx="leo.20181109230351.1">&lt;img alt="" height="300" src="/images/筆記2.jpg" width="225"&gt;
+<t tx="leo.20190111010306.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+
 </t>
-<t tx="leo.20181109230351.2">&lt;img alt="" height="300" src="/images/筆記3.jpg" width="400"&gt;</t>
-<t tx="leo.20181109230356.1">&lt;img alt="" height="300" src="/images/筆記4.jpg" width="400"&gt;</t>
-<t tx="leo.20181109230356.2">&lt;img alt="" height="300" src="/images/筆記5.jpg" width="400"&gt;</t>
+<t tx="leo.20190111010306.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+
+</t>
+<t tx="leo.20190111010347.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+
+</t>
+<t tx="leo.20190111010348.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111010512.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111010536.1">## w11~w12
+
+* 組員(6人一組)確定，開始決定期末專案主題(3D列印機)。
+
+* 使用 heroku 建立小組網站，再用 github 進行協同  處理好小組網站後，就可開始進行每周的專案進度紀錄。
+
+* 分配工作:我被分配到 Onshape 繪製</t>
+<t tx="leo.20190111011650.1">## w13
+
+* 繪製惰輪固定座及光軸滑塊
+
+* 相關網址: https://world.taobao.com/item/14495101210.htm?spm=a21wu.10013406-tw.0.0.5df37e2bIirEth 
+&lt;br&gt;&lt;iframe width="450" height="300" src="https://www.youtube.com/embed/zPXRH4G57so" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;                &lt;iframe width="450" height="300" src="https://www.youtube.com/embed/BVA7vscSEow" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+</t>
+<t tx="leo.20190111014242.1">## w14
+
+* 繪製風扇及噴嘴、噴頭
+
+* 相關網址: 
+[風扇](https://tw.bid.yahoo.com/item/%E3%80%90%E5%85%A8%E5%86%A0%E3%80%91ADDA-9-2%E5%85%AC%E5%88%86%E9%A2%A8%E6%89%87-9-2-9-2-3-8%E5%85%AC%E5%88%8624V0-7A-2%E7%B7%9A-100518089635)
+[噴嘴](https://item.taobao.com/item.htm?id=527963597624&amp;ali_refid=a3_430750_1006:1122639050:N:3d%E6%89%93%E5%8D%B0%E6%9C%BA%E5%96%B7%E5%98%B4:0cb031b1a129ead4961146ee1ff7099b&amp;ali_trackid=1_0cb031b1a129ead4961146ee1ff7099b&amp;spm=a21wu.10013406-tw.0.0)
+[噴頭1](https://world.taobao.com/item/560317882313.htm?spm=a21wu.10013406-tw.0.0.1da65c76OUnpUi)
+[噴頭2](https://world.taobao.com/item/520431331861.htm?spm=a21wu.10013406-tw.0.0.1da65c76OUnpUi)
+&lt;br&gt;&lt;iframe width="450" height="300" src="https://www.youtube.com/embed/zOWfRNnM8JM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;              &lt;iframe width="450" height="300" src="https://www.youtube.com/embed/BfBl4K0-K2U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190111015103.1">## w15
+
+* 繪製同步輪及軸座
+
+* 相關網址:
+[同步輪1](http://www.ciguang.com/productsd/tid14/pid59.html)
+[同步輪2](https://item.taobao.com/item.htm?id=7088047896&amp;scm=20140651.199.TW.973002450_7088047896&amp;gclid=EAIaIQobChMIyOLR8Kue3wIV2qmWCh3gHAHUEAQYASABEgIT_PD_BwE)
+[軸座](https://world.taobao.com/item/521011557898.htm?spm=a21wu.10013406-tw.0.0.572c2d3e6k8ZWK)
+&lt;br&gt;&lt;iframe width="450" height="300" src="https://www.youtube.com/embed/zOWfRNnM8JM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;              &lt;iframe width="450" height="300" src="https://www.youtube.com/embed/BfBl4K0-K2U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20190111015622.1">## w16
+
+* 繪製噴頭座
+
+* 相關網址:無
+
+&lt;br&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/RRfvk_FgNe4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190111015854.1">## w17
+
+* 編排 pdf
+</t>
+<t tx="leo.20190111020124.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111020141.1">## 期末心得
+
+這學期我的重點都在使用 Onshape 繪製 3D 列印機的零件及幫忙小組處理問題，透過組員之間的互相幫助，使得期末專案能如期完成，雖然沒有到非常完美，但是這都是我們期中後到期末前努力花時間去努力製作出來的成果。這一次的專題讓我學到，遇到困難的問題，一個人沒辦法解決時，我還是可以詢問組員或是互相討論，在去解決問題。
+</t>
 </tnodes>
 </leo_file>
