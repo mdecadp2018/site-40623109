@@ -468,9 +468,11 @@ They can't be added directly but you can add an image with a link to the video l
 </t>
 <t tx="leo.20181109225516.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
+
 
 
 						
@@ -527,14 +529,14 @@ They can't be added directly but you can add an image with a link to the video l
 </t>
 <t tx="leo.20181109230303.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
-
     &lt;/script&gt;
 &lt;/section&gt;
 
 
-						
 
+						
 </t>
 <t tx="leo.20181109230325.1">&lt;img alt="" height="300" src="/images/筆記1.jpg" width="400"&gt;
 </t>
@@ -580,9 +582,11 @@ They can't be added directly but you can add an image with a link to the video l
 </t>
 <t tx="leo.20190111010347.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
+
 
 
 						
@@ -644,9 +648,11 @@ They can't be added directly but you can add an image with a link to the video l
 v-rep 簡化及模擬步驟：https://mdekmol.github.io/cd2019a-task1-2019cda_t1_g3_1/content/V-rep%20%E5%8B%95%E6%85%8B%E6%A8%A1%E6%93%AC.html</t>
 <t tx="leo.20190111020124.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
+
 
 
 						
