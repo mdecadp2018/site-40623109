@@ -628,7 +628,8 @@ They can't be added directly but you can add an image with a link to the video l
 
 自行模擬操作一次
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/4kBac4FDT04" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-v-rep 簡化及模擬步驟：https://mdekmol.github.io/cd2019a-task1-2019cda_t1_g3_1/content/V-rep%20%E5%8B%95%E6%85%8B%E6%A8%A1%E6%93%AC.html</t>
+
+v-rep 簡化及模擬步驟：[網址](https://mdekmol.github.io/cd2019a-task1-2019cda_t1_g3_1/content/V-rep%20%E5%8B%95%E6%85%8B%E6%A8%A1%E6%93%AC.html)</t>
 <t tx="leo.20190111020124.1">&lt;section&gt;
 @others
 &lt;/section&gt;
