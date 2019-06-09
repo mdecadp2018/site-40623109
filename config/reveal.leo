@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Created by Leo: http://leoeditor.com/leo_toc.html -->
 <leo_file xmlns:leo="http://leoeditor.com/namespaces/leo-python-editor/1.1" >
-<leo_header file_format="2" tnodes="0" max_tnode_index="0" clone_windows="0"/>
-<globals body_outline_ratio="0.5" body_secondary_ratio="0.5">
-	<global_window_position top="50" left="50" height="500" width="700"/>
-	<global_log_window_position top="0" left="0" height="0" width="0"/>
-</globals>
+<leo_header file_format="2"/>
+<globals/>
 <preferences/>
 <find_panel_settings/>
 <vnodes>
@@ -13,37 +10,42 @@
 <v t="leo.20180827201556.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="leo.20180827201556.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
-<v t="leo.20180827201621.1" a="E"><vh>編輯 reveal</vh>
-<v t="leo.20180827201621.2" a="E"><vh>@path ./../reveal</vh>
-<v t="leo.20180827201621.3" a="E"><vh>@clean index.html</vh>
-<v t="leo.20180827201621.4" a="E"><vh>html</vh>
+<v t="leo.20180827201621.1"><vh>編輯 reveal</vh>
+<v t="leo.20180827201621.2"><vh>@path ./../reveal</vh>
+<v t="leo.20180827201621.3"><vh>@clean index.html</vh>
+<v t="leo.20180827201621.4"><vh>html</vh>
 <v t="leo.20180827201621.5"><vh>head</vh></v>
-<v t="leo.20180827201621.6" a="E"><vh>body</vh>
-<v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
-<v t="leo.20180827201621.8" a="EM"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.6"><vh>body</vh>
+<v t="leo.20180827201621.7"><vh>reveal div</vh>
+<v t="leo.20180827201621.8"><vh>slides div</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20190111010304.1"><vh>w11</vh>
-<v t="leo.20190111010536.1"><vh>11~12</vh></v>
+<v t="leo.20190111010536.1"><vh>11</vh></v>
 </v>
-<v t="leo.20190111010306.1"><vh>w13</vh>
-<v t="leo.20190111011650.1"><vh>13</vh></v>
+<v t="leo.20190111010306.1"><vh>w12</vh>
+<v t="leo.20190111011650.1"><vh>12</vh></v>
 </v>
-<v t="leo.20190111010306.2"><vh>w14</vh>
-<v t="leo.20190111014242.1"><vh>14</vh></v>
+<v t="leo.20190111010306.2"><vh>w13</vh>
+<v t="leo.20190111014242.1"><vh>13</vh></v>
 </v>
-<v t="leo.20190111010347.1"><vh>w15</vh>
-<v t="leo.20190111015103.1"><vh>15</vh></v>
+<v t="leo.20190111010347.1"><vh>w14</vh>
+<v t="leo.20190111015103.1"><vh>14-1</vh></v>
+<v t="leo.20190609232545.1"><vh>14-2</vh></v>
+<v t="leo.20190609232546.1"><vh>14-3</vh></v>
+<v t="leo.20190609232547.1"><vh>14-4</vh></v>
 </v>
-<v t="leo.20190111010348.1"><vh>w16</vh>
-<v t="leo.20190111015622.1"><vh>16</vh></v>
+<v t="leo.20190111010348.1"><vh>w15</vh>
+<v t="leo.20190111015622.1"><vh>15</vh></v>
 </v>
-<v t="leo.20190111010512.1"><vh>w17</vh>
-<v t="leo.20190111015854.1"><vh>17</vh></v>
+<v t="leo.20190111010512.1"><vh>w16</vh>
+<v t="leo.20190111015854.1"><vh>16</vh></v>
 </v>
-<v t="leo.20190111020124.1" a="E"><vh>心得</vh>
-<v t="leo.20190111020141.1"><vh>心得</vh></v>
+<v t="leo.20190111020124.1"><vh>心得</vh>
+<v t="leo.20190111020141.1"><vh>心得-1</vh></v>
+<v t="leo.20190609233029.1"><vh>心得-2</vh></v>
+<v t="leo.20190609233030.1"><vh>心得-3</vh></v>
 </v>
 <v t="leo.20181101204505.1"><vh>w1</vh>
 <v t="leo.20181101204529.1"><vh>w1</vh></v>
@@ -51,10 +53,10 @@
 <v t="leo.20181109221708.1"><vh>w2~w5</vh>
 <v t="leo.20181109221754.1"><vh>w2</vh></v>
 </v>
-<v t="leo.20181109221709.1" a="E"><vh>w6</vh>
+<v t="leo.20181109221709.1"><vh>w6</vh>
 <v t="leo.20181109221805.1"><vh>w6</vh></v>
 </v>
-<v t="leo.20181109221709.2" a="E"><vh>w7~w9</vh>
+<v t="leo.20181109221709.2"><vh>w7~w9</vh>
 <v t="leo.20181109221810.1"><vh>w7~w9</vh></v>
 </v>
 <v t="leo.20181109225516.1"><vh>video</vh>
@@ -69,7 +71,7 @@
 <v t="leo.20181109230147.2"><vh>w3-2</vh></v>
 <v t="leo.20181109230147.3"><vh>w3-3</vh></v>
 </v>
-<v t="leo.20181109230303.1" a="E"><vh>筆記照片</vh>
+<v t="leo.20181109230303.1"><vh>筆記照片</vh>
 <v t="leo.20181109230325.1"><vh>1</vh></v>
 <v t="leo.20181109230351.1"><vh>2</vh></v>
 <v t="leo.20181109230351.2"><vh>3</vh></v>
@@ -83,10 +85,10 @@
 <v t="leo.20180827201621.14"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
-<v t="leo.20180827201621.16" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20180827201621.16"><vh>導入縮排程式碼</vh>
 <v t="leo.20180827201621.17"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
+<v t="leo.20180827201621.18"><vh>導入影片</vh>
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
@@ -176,7 +178,7 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 網際簡報
+<t tx="leo.20180827201621.10">## CD2019a 協同產品設計實習
 
 ### 虎科大機械設計工程系
 機設二甲 40623109 李如芳
@@ -185,9 +187,9 @@ vertical: body pane on the botton</t>
 Created by [40623109](https://github.com/mdecadp2018/site-40623109)
 &lt;/small&gt;
 
-[網誌](https://mdecadp2018.github.io/site-40623109/blog/index.html)
+[倉儲](https://mdecadp2018.github.io/site-40623109/blog/index.html)
 
-
+[AG3網站](https://mdekmol.github.io/cd2019a-task1-2019cda_t1_g3_1/content/index.html)
 </t>
 <t tx="leo.20180827201621.11">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -452,7 +454,7 @@ DISQUS_SITENAME = "mdecadp2018"
 在github issues 中加入 youtube video 
 YouTube Videos
 They can't be added directly but you can add an image with a link to the video like this:
-[![https://www.youtube.com/watch?v=NXDOhVwlh1U](http://img.youtube.com/vi/NXDOhVwlh1U/0.jpg)](http://www.youtube.com/watch?v=NXDOhVwlh1U)
+![https://www.youtube.com/watch?v=NXDOhVwlh1U](http://img.youtube.com/vi/NXDOhVwlh1U/0.jpg)](http://www.youtube.com/watch?v=NXDOhVwlh1U)
 
 </t>
 <t tx="leo.20181109221810.1">Week7~Week9
@@ -604,60 +606,49 @@ They can't be added directly but you can add an image with a link to the video l
 
 						
 </t>
-<t tx="leo.20190111010536.1">## w11~w12
+<t tx="leo.20190111010536.1">## week11
 
-* 組員(6人一組)確定，開始決定期末專案主題(3D列印機)。
-
-* 使用 heroku 建立小組網站，再用 github 進行協同  處理好小組網站後，就可開始進行每周的專案進度紀錄。
-
-* 分配工作:我被分配到 Onshape 繪製
+* 這週的進度是報告工作分配，我是被分配到v-rep 模擬的部分，v-rep 模擬總共分成兩個部分，第一部分是簡化，第二部分是處理樹狀圖加模擬。一開始因為還要設計及畫圖，所以這週整組先一起設計球桌大小及各個零件的大小，並上網查資料再一起討論。
 
 </t>
-<t tx="leo.20190111011650.1">## w13
+<t tx="leo.20190111011650.1">## week12
 
-* 繪製惰輪固定座及光軸滑塊
+* 這週的進度是先用之前的圖檔熟悉簡化的操作，並處理樹狀圖，嘗試模擬。
 
-* 相關網址: https://world.taobao.com/item/14495101210.htm?spm=a21wu.10013406-tw.0.0.5df37e2bIirEth 
-&lt;br&gt;&lt;iframe width="450" height="300" src="https://www.youtube.com/embed/zPXRH4G57so" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;                &lt;iframe width="450" height="300" src="https://www.youtube.com/embed/BVA7vscSEow" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="450" height="300" src="https://youtu.be/JC-1Szy-1PI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 
 
 </t>
-<t tx="leo.20190111014242.1">## w14
+<t tx="leo.20190111014242.1">## week13
 
-* 繪製風扇及噴嘴、噴頭
+* 這週因為繪圖組的還需要時間畫圖，所以仍然用舊的圖檔進行簡化跟模擬。
 
-* 相關網址: 
-[風扇](https://tw.bid.yahoo.com/item/%E3%80%90%E5%85%A8%E5%86%A0%E3%80%91ADDA-9-2%E5%85%AC%E5%88%86%E9%A2%A8%E6%89%87-9-2-9-2-3-8%E5%85%AC%E5%88%8624V0-7A-2%E7%B7%9A-100518089635)
-[噴嘴](https://item.taobao.com/item.htm?id=527963597624&amp;ali_refid=a3_430750_1006:1122639050:N:3d%E6%89%93%E5%8D%B0%E6%9C%BA%E5%96%B7%E5%98%B4:0cb031b1a129ead4961146ee1ff7099b&amp;ali_trackid=1_0cb031b1a129ead4961146ee1ff7099b&amp;spm=a21wu.10013406-tw.0.0)
-[噴頭1](https://world.taobao.com/item/560317882313.htm?spm=a21wu.10013406-tw.0.0.1da65c76OUnpUi)
-[噴頭2](https://world.taobao.com/item/520431331861.htm?spm=a21wu.10013406-tw.0.0.1da65c76OUnpUi)
-&lt;br&gt;&lt;iframe width="450" height="300" src="https://www.youtube.com/embed/zOWfRNnM8JM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;              &lt;iframe width="450" height="300" src="https://www.youtube.com/embed/BfBl4K0-K2U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="450" height="300" src="https://youtu.be/CCFIQs34HnI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
-<t tx="leo.20190111015103.1">## w15
+<t tx="leo.20190111015103.1">## week14
 
-* 繪製同步輪及軸座
+*因為繪圖組的出現限制錯誤的問題，所以這週過去支援繪圖組裝的部分。
 
-* 相關網址:
-[同步輪1](http://www.ciguang.com/productsd/tid14/pid59.html)
-[同步輪2](https://item.taobao.com/item.htm?id=7088047896&amp;scm=20140651.199.TW.973002450_7088047896&amp;gclid=EAIaIQobChMIyOLR8Kue3wIV2qmWCh3gHAHUEAQYASABEgIT_PD_BwE)
-[軸座](https://world.taobao.com/item/521011557898.htm?spm=a21wu.10013406-tw.0.0.572c2d3e6k8ZWK)
-&lt;br&gt;&lt;iframe width="450" height="300" src="https://www.youtube.com/embed/zOWfRNnM8JM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;              &lt;iframe width="450" height="300" src="https://www.youtube.com/embed/BfBl4K0-K2U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+詢問繪圖組後，發現他們對於組合圖的組裝尚未完成，並不熟悉限制條件與方式，也示範一次如何組裝並錄製影片，由於需反覆的調整與限制方式，所以我們這周與他們討論並一起解決問題。
+
+&lt;iframe width="450" height="300" src="https://youtu.be/VtadsM_6xEs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
-<t tx="leo.20190111015622.1">## w16
+<t tx="leo.20190111015622.1">## week15
 
-* 繪製噴頭座
+* 手把不需特別簡化，將其餘的模型簡化，並貼在本體上，完成。
 
-* 相關網址:無
-
-&lt;br&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/RRfvk_FgNe4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;br&gt;&lt;iframe width="560" height="315" src="https://youtu.be/sG4lKEqtq6w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 <t tx="leo.20190111015854.1">## w17
 
-* 編排 pdf
-</t>
+* 自行模擬操作一次
+
+&lt;br&gt;&lt;iframe width="560" height="315" src="https://youtu.be/4kBac4FDT04" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+v-rep 簡化及模擬步驟：https://mdekmol.github.io/cd2019a-task1-2019cda_t1_g3_1/content/V-rep%20%E5%8B%95%E6%85%8B%E6%A8%A1%E6%93%AC.html</t>
 <t tx="leo.20190111020124.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -669,7 +660,39 @@ They can't be added directly but you can add an image with a link to the video l
 </t>
 <t tx="leo.20190111020141.1">## 期末心得
 
-這學期我的重點都在使用 Onshape 繪製 3D 列印機的零件及幫忙小組處理問題，透過組員之間的互相幫助，使得期末專案能如期完成，雖然沒有到非常完美，但是這都是我們期中後到期末前努力花時間去努力製作出來的成果。這一次的專題讓我學到，遇到困難的問題，一個人沒辦法解決時，我還是可以詢問組員或是互相討論，在去解決問題。
+期中後，要開始準備手足球的報告，我被分配到 v-rep 模擬，雖然之前有教過 v-rep 但是還是不太熟練，在前幾周的練習中，我和同組成員利用舊的手足球檔案，先去練習物件的簡化，在要開始簡化時，真的甚麼都不會，就上網查詢有關 v-rep 簡化的相關資訊或是教學影片，在幾個禮拜前終於學會使用簡化，並將新的手足球簡化好了。簡化完後，就要 v-rep 模擬，一開始也是不會用，就自己在那邊亂弄，不會就去問組長或是跟同組成員一起討論，在這幾周中終於模擬完v-rep了。
+
+</t>
+<t tx="leo.20190609232545.1">week14
+
+&lt;iframe width="450" height="300" src="https://youtu.be/dJdOBtd_6_I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190609232546.1">week14
+
+&lt;iframe width="450" height="300" src="https://youtu.be/GlUkklJDP4k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190609232547.1">week14
+
+&lt;iframe width="450" height="300" src="https://youtu.be/_6-32SsqBfQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190609233029.1">## 自評
+
+自評：65分
+
+評分比例:
+
+    學員出席 (20%)
+
+    Github 倉儲管理  (20%)
+
+    Onshape 協同操作 (20%)
+
+    V-rep 模擬 (20%)
+
+    程式開發 (20%)</t>
+<t tx="leo.20190609233030.1">## week15
+
+* 手把不需特別簡化，將其餘的模型簡化，並貼在本體上，完成。
+
+&lt;br&gt;&lt;iframe width="560" height="315" src="https://youtu.be/unlsHoHmRHw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
 </t>
 </tnodes>
 </leo_file>
