@@ -535,68 +535,98 @@ They can't be added directly but you can add an image with a link to the video l
 </t>
 <t tx="leo.20181109230356.2">&lt;img alt="" height="300" src="/images/筆記5.jpg" width="400"&gt;
 </t>
-<t tx="leo.20190111010304.1">&lt;section&gt;
+<t tx="leo.20190111010304.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
+    &lt;/script&gt;
 &lt;/section&gt;
 
+
+
+						
 </t>
-<t tx="leo.20190111010306.1">&lt;section&gt;
+<t tx="leo.20190111010306.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
+    &lt;/script&gt;
 &lt;/section&gt;
 
+
+
+						
 </t>
-<t tx="leo.20190111010306.2">&lt;section&gt;
+<t tx="leo.20190111010306.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
+    &lt;/script&gt;
 &lt;/section&gt;
 
+
+
+						
 </t>
 <t tx="leo.20190111010347.1">&lt;section&gt;
 @others
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20190111010348.1">&lt;section&gt;
+<t tx="leo.20190111010348.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
+    &lt;/script&gt;
 &lt;/section&gt;
 
+
+
+						
 </t>
-<t tx="leo.20190111010512.1">&lt;section&gt;
+<t tx="leo.20190111010512.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
+    &lt;/script&gt;
 &lt;/section&gt;
 
+
+
+						
 </t>
 <t tx="leo.20190111010536.1">## week11
 
-* 這週的進度是報告工作分配，我是被分配到v-rep 模擬的部分，v-rep 模擬總共分成兩個部分，第一部分是簡化，第二部分是處理樹狀圖加模擬。一開始因為還要設計及畫圖，所以這週整組先一起設計球桌大小及各個零件的大小，並上網查資料再一起討論。
+這週的進度是報告工作分配，我是被分配到v-rep 模擬的部分，v-rep 模擬總共分成兩個部分，第一部分是簡化，第二部分是處理樹狀圖加模擬。一開始因為還要設計及畫圖，所以這週整組先一起設計球桌大小及各個零件的大小，並上網查資料再一起討論。
 
 </t>
 <t tx="leo.20190111011650.1">## week12
 
-* 這週的進度是先用之前的圖檔熟悉簡化的操作，並處理樹狀圖，嘗試模擬。
+這週的進度是先用之前的圖檔熟悉簡化的操作，並處理樹狀圖，嘗試模擬。
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/JC-1Szy-1PI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 <t tx="leo.20190111014242.1">## week13
 
-* 這週因為繪圖組的還需要時間畫圖，所以仍然用舊的圖檔進行簡化跟模擬。
+這週因為繪圖組的還需要時間畫圖，所以仍然用舊的圖檔進行簡化跟模擬。
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/CCFIQs34HnI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20190111015103.1">## week14
 
-*這週過去支援繪圖組裝的部分。
+這週過去支援繪圖組裝的部分。
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/VtadsM_6xEs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20190111015622.1">## week15
 
-* 手把不需特別簡化，將其餘的模型簡化，並貼在本體上，完成。
+手把不需特別簡化，將其餘的模型簡化，並貼在本體上，完成。
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/sG4lKEqtq6w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20190111015854.1">## week16
 
-* 自行模擬操作一次
+自行模擬操作一次
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/4kBac4FDT04" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 v-rep 簡化及模擬步驟：https://mdekmol.github.io/cd2019a-task1-2019cda_t1_g3_1/content/V-rep%20%E5%8B%95%E6%85%8B%E6%A8%A1%E6%93%AC.html</t>
 <t tx="leo.20190111020124.1">&lt;section&gt;
@@ -611,17 +641,17 @@ v-rep 簡化及模擬步驟：https://mdekmol.github.io/cd2019a-task1-2019cda_t1
 </t>
 <t tx="leo.20190609232545.1">##week14
 
-*手足球簡化 測試1
+手足球簡化 測試1
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/dJdOBtd_6_I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20190609232546.1">##week14
 
-*手足球簡化 測試2
+手足球簡化 測試2
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/GlUkklJDP4k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20190609232547.1">##week14
 
-*手足球簡化 測試3
+手足球簡化 測試3
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/_6-32SsqBfQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20190609233029.1">## 自評
