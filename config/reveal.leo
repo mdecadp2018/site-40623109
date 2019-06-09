@@ -31,10 +31,18 @@
 <v t="leo.20190111014242.1"><vh>13</vh></v>
 </v>
 <v t="leo.20190111010347.1"><vh>w14</vh>
+<v t="leo.20190609234755.1"><vh>14-1-1</vh>
 <v t="leo.20190111015103.1"><vh>14-1</vh></v>
+</v>
+<v t="leo.20190609234841.1"><vh>14-1-2</vh>
 <v t="leo.20190609232545.1"><vh>14-2</vh></v>
+</v>
+<v t="leo.20190609234915.1"><vh>14-1-3</vh>
 <v t="leo.20190609232546.1"><vh>14-3</vh></v>
+</v>
+<v t="leo.20190609234927.1"><vh>14-1-4</vh>
 <v t="leo.20190609232547.1"><vh>14-4</vh></v>
+</v>
 </v>
 <v t="leo.20190111010348.1"><vh>w15</vh>
 <v t="leo.20190111015622.1"><vh>15</vh></v>
@@ -43,9 +51,15 @@
 <v t="leo.20190111015854.1"><vh>16</vh></v>
 </v>
 <v t="leo.20190111020124.1"><vh>心得</vh>
+<v t="leo.20190609234953.1"><vh>心得1-1</vh>
 <v t="leo.20190111020141.1"><vh>心得-1</vh></v>
+</v>
+<v t="leo.20190609235016.1"><vh>心得1-2</vh>
 <v t="leo.20190609233029.1"><vh>心得-2</vh></v>
+</v>
+<v t="leo.20190609235024.1"><vh>心得1-3</vh>
 <v t="leo.20190609233030.1"><vh>心得-3</vh></v>
+</v>
 </v>
 <v t="leo.20181101204505.1"><vh>w1</vh>
 <v t="leo.20181101204529.1"><vh>w1</vh></v>
@@ -381,14 +395,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181101204505.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20181101204505.1">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;
-
-
-						
 
 </t>
 <t tx="leo.20181101204529.1">Week1
@@ -402,32 +411,20 @@ make.start()
 DISQUS_SITENAME = "mdecadp2018"
 
 </t>
-<t tx="leo.20181109221708.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20181109221708.1">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;
 
-
-						
 </t>
-<t tx="leo.20181109221709.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20181109221709.1">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;
 
-
-						
 </t>
-<t tx="leo.20181109221709.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20181109221709.2">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;
 
-
-						
 </t>
 <t tx="leo.20181109221754.1">Week2~Week5
 
@@ -538,34 +535,19 @@ They can't be added directly but you can add an image with a link to the video l
 </t>
 <t tx="leo.20181109230356.2">&lt;img alt="" height="300" src="/images/筆記5.jpg" width="400"&gt;
 </t>
-<t tx="leo.20190111010304.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20190111010304.1">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;
-
-
-						
 
 </t>
-<t tx="leo.20190111010306.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20190111010306.1">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;
-
-
-						
 
 </t>
-<t tx="leo.20190111010306.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20190111010306.2">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;
-
-
-						
 
 </t>
 <t tx="leo.20190111010347.1">&lt;section&gt;
@@ -573,23 +555,15 @@ They can't be added directly but you can add an image with a link to the video l
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20190111010348.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20190111010348.1">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;
 
-
-						
 </t>
-<t tx="leo.20190111010512.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20190111010512.1">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;
 
-
-						
 </t>
 <t tx="leo.20190111010536.1">## week11
 
@@ -611,9 +585,7 @@ They can't be added directly but you can add an image with a link to the video l
 </t>
 <t tx="leo.20190111015103.1">## week14
 
-*因為繪圖組的出現限制錯誤的問題，所以這週過去支援繪圖組裝的部分。
-
-詢問繪圖組後，發現他們對於組合圖的組裝尚未完成，並不熟悉限制條件與方式，也示範一次如何組裝並錄製影片，由於需反覆的調整與限制方式，所以我們這周與他們討論並一起解決問題。
+*這週過去支援繪圖組裝的部分。
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/VtadsM_6xEs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20190111015622.1">## week15
@@ -622,10 +594,9 @@ They can't be added directly but you can add an image with a link to the video l
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/sG4lKEqtq6w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
-<t tx="leo.20190111015854.1">## w17
+<t tx="leo.20190111015854.1">## week16
 
 * 自行模擬操作一次
-
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/4kBac4FDT04" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 v-rep 簡化及模擬步驟：https://mdekmol.github.io/cd2019a-task1-2019cda_t1_g3_1/content/V-rep%20%E5%8B%95%E6%85%8B%E6%A8%A1%E6%93%AC.html</t>
 <t tx="leo.20190111020124.1">&lt;section&gt;
@@ -671,6 +642,83 @@ v-rep 簡化及模擬步驟：https://mdekmol.github.io/cd2019a-task1-2019cda_t1
 <t tx="leo.20190609233030.1">## 期末影片
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/unlsHoHmRHw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20190609234755.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190609234841.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190609234915.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190609234927.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190609234953.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190609235016.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190609235024.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
 </t>
 </tnodes>
 </leo_file>
