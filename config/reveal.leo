@@ -586,7 +586,6 @@ They can't be added directly but you can add an image with a link to the video l
 
 
 						
-
 </t>
 <t tx="leo.20190111010348.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -615,17 +614,14 @@ They can't be added directly but you can add an image with a link to the video l
 
 * 這週的進度是先用之前的圖檔熟悉簡化的操作，並處理樹狀圖，嘗試模擬。
 
-&lt;iframe width="450" height="300" src="https://youtu.be/JC-1Szy-1PI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-
-
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/JC-1Szy-1PI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 <t tx="leo.20190111014242.1">## week13
 
 * 這週因為繪圖組的還需要時間畫圖，所以仍然用舊的圖檔進行簡化跟模擬。
 
-&lt;iframe width="450" height="300" src="https://youtu.be/CCFIQs34HnI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/CCFIQs34HnI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20190111015103.1">## week14
 
@@ -633,21 +629,18 @@ They can't be added directly but you can add an image with a link to the video l
 
 詢問繪圖組後，發現他們對於組合圖的組裝尚未完成，並不熟悉限制條件與方式，也示範一次如何組裝並錄製影片，由於需反覆的調整與限制方式，所以我們這周與他們討論並一起解決問題。
 
-&lt;iframe width="450" height="300" src="https://youtu.be/VtadsM_6xEs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/VtadsM_6xEs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20190111015622.1">## week15
 
 * 手把不需特別簡化，將其餘的模型簡化，並貼在本體上，完成。
 
-&lt;br&gt;&lt;iframe width="560" height="315" src="https://youtu.be/sG4lKEqtq6w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/sG4lKEqtq6w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20190111015854.1">## w17
 
 * 自行模擬操作一次
 
-&lt;br&gt;&lt;iframe width="560" height="315" src="https://youtu.be/4kBac4FDT04" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/4kBac4FDT04" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 v-rep 簡化及模擬步驟：https://mdekmol.github.io/cd2019a-task1-2019cda_t1_g3_1/content/V-rep%20%E5%8B%95%E6%85%8B%E6%A8%A1%E6%93%AC.html</t>
 <t tx="leo.20190111020124.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -663,15 +656,21 @@ v-rep 簡化及模擬步驟：https://mdekmol.github.io/cd2019a-task1-2019cda_t1
 期中後，要開始準備手足球的報告，我被分配到 v-rep 模擬，雖然之前有教過 v-rep 但是還是不太熟練，在前幾周的練習中，我和同組成員利用舊的手足球檔案，先去練習物件的簡化，在要開始簡化時，真的甚麼都不會，就上網查詢有關 v-rep 簡化的相關資訊或是教學影片，在幾個禮拜前終於學會使用簡化，並將新的手足球簡化好了。簡化完後，就要 v-rep 模擬，一開始也是不會用，就自己在那邊亂弄，不會就去問組長或是跟同組成員一起討論，在這幾周中終於模擬完v-rep了。
 
 </t>
-<t tx="leo.20190609232545.1">week14
+<t tx="leo.20190609232545.1">##week14
 
-&lt;iframe width="450" height="300" src="https://youtu.be/dJdOBtd_6_I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
-<t tx="leo.20190609232546.1">week14
+*手足球簡化 測試1
 
-&lt;iframe width="450" height="300" src="https://youtu.be/GlUkklJDP4k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
-<t tx="leo.20190609232547.1">week14
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/dJdOBtd_6_I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190609232546.1">##week14
 
-&lt;iframe width="450" height="300" src="https://youtu.be/_6-32SsqBfQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+*手足球簡化 測試2
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/GlUkklJDP4k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190609232547.1">##week14
+
+*手足球簡化 測試3
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/_6-32SsqBfQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20190609233029.1">## 自評
 
 自評：65分
@@ -687,12 +686,9 @@ v-rep 簡化及模擬步驟：https://mdekmol.github.io/cd2019a-task1-2019cda_t1
     V-rep 模擬 (20%)
 
     程式開發 (20%)</t>
-<t tx="leo.20190609233030.1">## week15
+<t tx="leo.20190609233030.1">## 期末影片
 
-* 手把不需特別簡化，將其餘的模型簡化，並貼在本體上，完成。
-
-&lt;br&gt;&lt;iframe width="560" height="315" src="https://youtu.be/unlsHoHmRHw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/unlsHoHmRHw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 </tnodes>
 </leo_file>
